@@ -8,26 +8,24 @@ Lista de comandos separados por categoria.
 
 ### Todos
 
-/start
-/help
+  - /start
 
 
 ### Grupos
 
-/ban
-/unban
-/setflood
-/setrules
-/rules
+  - /ban
+  - /unban
+  - /setflood
+  - /setrules
+  - /rules
 
 
 ## TODO
 
-  - [ ] /start
+  - [x] /start
   - [ ] /ban
   - [ ] /unban
   - [ ] Flood manager
   - [ ] /setflood
   - [ ] /setrules
   - [ ] /rules
-  - [ ] /help

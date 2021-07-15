@@ -1,2 +1,5 @@
 .env/
+__pycache__/
 run.sh
+*.session
+*.session-journal
